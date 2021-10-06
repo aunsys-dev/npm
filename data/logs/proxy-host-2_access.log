@@ -1,0 +1,4 @@
+[06/Oct/2021:08:41:35 +0000] - 200 200 - GET http 45.76.144.165 "/" [Client 103.86.158.242] [Length 5228] [Gzip -] [Sent-to 103.35.204.25] "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0" "http://45.76.144.165:81/"
+[06/Oct/2021:08:55:08 +0000] - 200 200 - GET https 45.76.144.165 "/" [Client 103.86.158.242] [Length 5213] [Gzip -] [Sent-to 103.35.204.25] "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0" "http://45.76.144.165:81/"
+[06/Oct/2021:08:55:15 +0000] - 200 200 - GET https 45.76.144.165 "/" [Client 103.86.158.242] [Length 5216] [Gzip -] [Sent-to 103.35.204.25] "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" "-"
+[06/Oct/2021:09:04:29 +0000] - - 400 - GET http 45.76.144.165 "/" [Client 199.195.251.49] [Length 252] [Gzip -] [Sent-to ] "Linux Gnu (cow)" "-"

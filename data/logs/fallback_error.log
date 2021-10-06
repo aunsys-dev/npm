@@ -1,0 +1,7 @@
+2021/10/06 08:40:53 [error] 335#335: *70 directory index of "/var/www/html/" is forbidden, client: 103.86.158.242, server: localhost-nginx-proxy-manager, request: "GET / HTTP/1.1", host: "45.76.144.165"
+2021/10/06 08:40:53 [warn] 335#335: 1024 worker_connections are not enough, reusing connections
+2021/10/06 08:40:53 [alert] 335#335: 1024 worker_connections are not enough
+2021/10/06 08:40:53 [error] 335#335: *1087 recv() failed (104: Connection reset by peer) while reading response header from upstream, client: 127.0.0.1, server: localhost-nginx-proxy-manager, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:80/favicon.ico", host: "45.76.144.165", referrer: "http://45.76.144.165/"
+2021/10/06 08:40:54 [error] 335#335: *71 directory index of "/var/www/html/" is forbidden, client: 103.86.158.242, server: localhost-nginx-proxy-manager, request: "GET / HTTP/1.1", host: "45.76.144.165"
+2021/10/06 08:48:03 [error] 351#351: *1127 directory index of "/var/www/html/" is forbidden, client: 103.86.158.242, server: localhost-nginx-proxy-manager, request: "GET / HTTP/1.1", host: "45.76.144.165", referrer: "http://45.76.144.165:81/"
+2021/10/06 08:52:15 [error] 351#351: *1154 directory index of "/var/www/html/" is forbidden, client: 3.126.19.248, server: localhost-nginx-proxy-manager, request: "GET / HTTP/1.1", host: "45.76.144.165"
