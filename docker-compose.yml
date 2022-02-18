@@ -18,6 +18,7 @@ services:
       - ./letsencrypt:/etc/letsencrypt
       - ./html:/var/www/html
       - ./conf.d:/etc/nginx/conf.d
+      - ./nginx:/etc/nginx/
   db:
     image: 'jc21/mariadb-aria:latest'
     restart: unless-stopped
