@@ -50,3 +50,4 @@
 2022/02/07 13:28:47 [error] 12293#12293: *13168 directory index of "/var/www/html/" is forbidden, client: 20.55.53.144, server: localhost-nginx-proxy-manager, request: "GET / HTTP/1.1", host: "178.128.208.147"
 2022/02/07 15:45:58 [error] 12313#12313: *13175 directory index of "/var/www/html/" is forbidden, client: 192.241.211.246, server: localhost-nginx-proxy-manager, request: "GET / HTTP/1.1", host: "178.128.208.147"
 2022/02/07 16:36:10 [error] 12323#12323: *13177 directory index of "/var/www/html/" is forbidden, client: 35.235.90.65, server: localhost-nginx-proxy-manager, request: "GET /?q=%lazurite%&t=h_&ia=web HTTP/1.0", host: "178.128.208.147"
+2022/02/23 09:26:05 [error] 281#281: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 103.86.158.242, server: nginxproxymanager, request: "GET /api/ HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "178.128.208.147:81", referrer: "http://178.128.208.147:81/"
